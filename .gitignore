@@ -1,0 +1,17 @@
+# IDEs
+.vscode
+
+# Node
+node_modules
+
+# Build
+dist
+
+# macOS files
+.DS_Store
+
+# Logs
+npm-debug.log*
+
+# Yarn
+yarn-error.log
